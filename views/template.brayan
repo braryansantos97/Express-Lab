@@ -1,0 +1,11 @@
+<head>
+  #title#
+</head>
+<link rel="stylesheet" type="text/css" href="/css/server.css">
+<body>
+  <div id="container">
+    <header>#message#</header>
+    #content#
+    <button><a href="#link#">click me</a></button>
+  </div>
+</body>
